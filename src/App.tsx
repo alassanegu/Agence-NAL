@@ -452,7 +452,7 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Notaire, Guédiawaye, Sénégal</li>
+                <li>Sam notaire, Guédiawaye, Sénégal</li>
                 <li>+221 77 851 75 86</li>
                 <li>gueyealassane86@gmail.com</li>
               </ul>
